@@ -1,4 +1,5 @@
 # Forum_Insights
+Watch our [Wiki](https://github.com/Bridge-The-Divide/Forum_Insights/wiki) and contribute to the discussion!
 ## Bridging Divides in Digital Spaces
 
 Imagine enhancing your forum with a plugin that not only automatically precedes long threads with a concise summary but also visualizes diverse opinions and presents all posted links and references in an accessible way. This core value proposition of our tool aims to make discussions more navigable and engaging, also enabling users to more comprehensively understand the variety of perspectives shared within the community. 
