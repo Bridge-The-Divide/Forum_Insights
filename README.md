@@ -2,7 +2,7 @@
 
 Imagine enhancing your forum with a plugin that not only automatically precedes long threads with a concise summary but also visualizes diverse opinions and presents all posted links and references in an accessible way. This core value proposition of our tool aims to make discussions more navigable and engaging, also enabling users to more comprehensively understand the variety of perspectives shared within the community. 
 Welcome to Forum_Insights, a project born from the necessity to address the growing division within our society. In an era where digital discussions often descend into echo chambers, our mission is to foster understanding and bridge gaps through thoughtful dialogue and technological innovation.
-## Our Mission:
+## Our Mission
 Our society faces unprecedented division, with digital forums becoming battlegrounds rather than spaces for constructive discourse. Forum_Insights aims to counteract this by developing tools that encourage balanced discussions, provide insightful summaries, and highlight diverse perspectives.
 ## Approach
 We believe in a modular approach, where Forum_Insights serves as one piece of a larger puzzle. This module focuses on analyzing forum discussions, offering summaries, sentiment analyses, and visualizing the spectrum of opinions. It’s a step towards creating more cohesive digital communities.
